@@ -1,14 +1,14 @@
 # 안녕하세요, 소프트웨어 개발자 이현종 입니다👋
 > 
 > 
-> `긍정` `솔직` `협력` 
+> `긍정` `솔직` `협력`
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunJong00&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunJong00&layout=compact&theme=dracula)
 
 
-## 🛠 Skills
-
+## :hammer_and_pick: Skills
 ###  LIKES
 <div> 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -33,11 +33,28 @@
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
 
+## :mortar_board: Educations
 
-##
-**2000.06.27**  
+- **2019.03 ~  :** 동국대학교 바이오환경과학과
+- **2023.09 ~  :** 동국대학교 융합소프트웨어 연계전공
+
+### 💻 PROJECT
+| 기간                      | 내용                                                                         |
+| ------------------------- | ---------------------------------------------------------------------------- |
+| **2020.01 ~ 2024.02**     | 웹 크롤링을 이용한 항공권 비교 프로그램                |
+| **2020.03 ~ 2024.02**     | 날씨정보 제공 프로그램           |
+| **2021.09 ~ 2021.10**     | 등등                                               |
+| **2023.04 ~ 2023.11**     |          |
+| **2023.03 ~ 2023.12**     |  |
+| **2024.03 ~ 2024.05**     |                                                |
+
+
+## 📬 Else
+2000.06.27
 email - hjong1010@naver.com  
 github - http://github.com/HyunJong00 
+
+
 
 <!--
 **HyunJong00/HyunJong00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
