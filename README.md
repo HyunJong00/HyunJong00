@@ -88,8 +88,8 @@
 
 ## 📬 Else
 2000.06.27
-email - hjong1010@naver.com  
-github - http://github.com/HyunJong00 
+email - hjong1010@naver.com  <br>
+github - http://github.com/HyunJong00 <br>
 notion - https://grizzly-scraper-fde.notion.site/HYUNJONG-LEE-10c9afa0ac8c80a899d6d896d9023336?pvs=74
 
 
