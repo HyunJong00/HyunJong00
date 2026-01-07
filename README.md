@@ -23,23 +23,33 @@
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </div>
 
-## 👾 Projects
+
+## 👾 Main Projects
 
 <details open>
 <summary>🏃 <strong>코스밋</strong> <code>2025.05 ~ 2026.01</code></summary>
 
 - 위치 기반 운동 코스 공유 소셜 플랫폼  
-- `Location` `Social` `Fitness`  
-- 🔗 [CourseMeet](https://github.com/hikers-dev)
-
+- 🧰 **Libraries (Used by me)**
+  - 🎨 Frontend : React Native, TypeScript
+  - 🗄️ State / Data : Zustand
+  - 🗄️ Database : PostgreSQL
+- 🔗 [코스밋 GitHub](https://github.com/hikers-dev)
+  
 </details>
 
 <details>
 <summary>⛰️ <strong>오르락</strong> <code>2024.08 ~ 2025.05</code></summary>
 
 - 등산 경험을 디지털 서비스로 확장한 게이미피케이션 서비스  
-- `Hiking` `Gamification`  
-- 🔗 [UpTheRock](https://github.com/hikers-dev/uptherock)
+- 🧰 **Libraries (Used by me)**
+  - 🎨 Frontend : React Native, JavaScript
+  - ⚙️ Backend : Spring Boot
+  - 🗺️ Map : Mapbox
+  - 🗄️ State : Context API
+  - 🗄️ Database : MySQL
+- 🔗 [오르락 GitHub](https://github.com/hikers-dev/uptherock)
+
 
 </details>
 
@@ -47,11 +57,65 @@
 <summary>🗺️ <strong>탐라탐나</strong> <code>2024.09 ~ 2024.12</code></summary>
 
 - LLM 기반 제주 여행 일정 자동 추천 서비스  
-- `LLM` `Travel` `Recommendation`  
-- 🔗 [Tamla,Tamna](https://github.com/HyunJong00/JJAMBBONG)
+- 🧰 **Libraries (Used by me)**
+  - 🎨 Frontend : React
+- 🔗 [탐라탐나 GitHub](https://github.com/HyunJong00/JJAMBBONG)
+</details>
+
+## 🎬 Sub Projects
+<details>
+<summary>🌱 <strong>기후 변화 기반 농작물 생산량 예측 웹</strong> <code>2024.03 ~ 2024.06</code></summary>
+
+- 기후 변화 데이터를 활용해 농작물 생산량을 예측하여 시각화한 웹 서비스
+- 🧰 **Libraries (Used by me)**
+  - 🎨 Frontend : Django Template, HTML, CSS, JavaScript
+  - 🗺️ Map / GIS : Leaflet, QGIS
+  - 🎨 Design : Figma, Bootstrap
+  - 🔗 [프로젝트 GitHub]([https://github.com/HyunJong00/JJAMBBONG](https://github.com/HyunJong00/Aha))
+</details>
+
+<details>
+<summary>📷 <strong>얼굴 인식 화상통화 서비스</strong> <code>2024.09 ~ 2024.12</code></summary>
+
+- 얼굴 인식 기반 실시간 화상통화 서비스 
+- 🧰 **Libraries (Used by me)**
+  - 🧠 Vision : OpenCV
+- 🔗 [프로젝트 GitHub](https://github.com/HyunJong00/BlueGreen)
+</details>
+
+<details>
+<summary>🧩 <strong>팀 소개 정적 웹페이지</strong> <code>2024.04 ~ 2024.06</code></summary>
+
+- 팀 소개를 위한 정적 웹페이지를 구축하고 배포 자동화 및 서버 환경을 구성한 프로젝트
+- 🧰 **Libraries (Used by me)**
+  - ⚙️ Backend : Flask
+  - 🐳 Infra : Docker
+  - 🚀 CI/CD : Jenkins
+  - ☁️ Server : AWS EC2, Nginx, uWSGI
+- 🔗 [프로젝트 GitHub](https://github.com/CSID-DGU/2024-1-OSSPrac-CodeH)
 
 </details>
 
+<details>
+<summary>🏠 <strong>날씨 기반 가전 자동화 프로그램</strong> <code>2023.11 ~ 2023.12</code></summary>
+  
+- 날씨 정보를 기반으로 에어컨, 세탁기, 창문 등의 동작을 자동화하는 개인 프로젝트
+- 🧰 **Libraries (Used by me)**
+  - 🧠 Logic : Python (OOP)
+  - 🌦️ API : OpenWeather API
+  - 🖥️ GUI : Tkinter
+</details>
+
+<details>
+<summary>✈️ <strong>항공권 비교 GUI 프로그램</strong> <code>2023.07 ~ 2023.08</code></summary>
+  
+- 날짜와 목적지를 기준으로 항공권 정보를 수집하고 규격화된 UI로 비교할 수 있도록 구현한 개인 프로젝트
+  
+- 🧰 **Libraries (Used by me)**
+  - 🕷️ Crawling : Selenium, WebDriver, BeautifulSoup
+  - 🖥️ GUI : Tkinter
+    
+</details>
 
 ## 📬 Contact
 - Email : hjong1010@naver.com  
