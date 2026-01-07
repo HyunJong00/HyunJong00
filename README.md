@@ -32,7 +32,7 @@
 - 위치 기반 운동 코스 공유 소셜 플랫폼  
 - 🧰 **Libraries (Used by me)**
   - 🎨 Frontend : React Native, TypeScript
-  - 🗄️ State / Data : Zustand
+  - 🗄️ State : Zustand, Tanstack Query
   - 🗄️ Database : PostgreSQL
 - 🔗 [코스밋 GitHub](https://github.com/hikers-dev)
   
@@ -110,7 +110,6 @@
 <summary>✈️ <strong>항공권 비교 GUI 프로그램</strong> <code>2023.07 ~ 2023.08</code></summary>
   
 - 날짜와 목적지를 기준으로 항공권 정보를 수집하고 규격화된 UI로 비교할 수 있도록 구현한 개인 프로젝트
-  
 - 🧰 **Libraries (Used by me)**
   - 🕷️ Crawling : Selenium, WebDriver, BeautifulSoup
   - 🖥️ GUI : Tkinter
