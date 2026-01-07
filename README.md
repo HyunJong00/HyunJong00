@@ -22,8 +22,7 @@
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&color=%234169E1">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </div>
-  
-## 📬 contact
+
 ## 📬 Contact
 - Email : hjong1010@naver.com  
 - GitHub : [HyunJong00](https://github.com/HyunJong00)  
