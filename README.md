@@ -23,6 +23,36 @@
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </div>
 
+## 👾 Projects
+
+<details open>
+<summary>🏃 <strong>코스밋</strong> <code>2025.05 ~ 2026.01</code></summary>
+
+- 위치 기반 운동 코스 공유 소셜 플랫폼  
+- `Location` `Social` `Fitness`  
+- 🔗 [CourseMeet](https://github.com/hikers-dev)
+
+</details>
+
+<details>
+<summary>⛰️ <strong>오르락</strong> <code>2024.08 ~ 2025.05</code></summary>
+
+- 등산 경험을 디지털 서비스로 확장한 게이미피케이션 서비스  
+- `Hiking` `Gamification`  
+- 🔗 [UpTheRock](https://github.com/hikers-dev/uptherock)
+
+</details>
+
+<details>
+<summary>🗺️ <strong>탐라탐나</strong> <code>2024.09 ~ 2024.12</code></summary>
+
+- LLM 기반 제주 여행 일정 자동 추천 서비스  
+- `LLM` `Travel` `Recommendation`  
+- 🔗 [Tamla,Tamna](https://github.com/HyunJong00/JJAMBBONG)
+
+</details>
+
+
 ## 📬 Contact
 - Email : hjong1010@naver.com  
 - GitHub : [HyunJong00](https://github.com/HyunJong00)  
