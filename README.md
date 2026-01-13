@@ -71,7 +71,7 @@
   - 🎨 Frontend : Django Template, HTML, CSS, JavaScript
   - 🗺️ Map / GIS : Leaflet, QGIS
   - 🎨 Design : Figma, Bootstrap
-  - 🔗 [프로젝트 GitHub]([https://github.com/HyunJong00/JJAMBBONG](https://github.com/HyunJong00/Aha))
+  - 🔗 [프로젝트 GitHub](https://github.com/HyunJong00/Aha)
 </details>
 
 <details>
