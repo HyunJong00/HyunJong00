@@ -34,7 +34,7 @@
   - 🎨 Frontend : React Native, TypeScript
   - 🗄️ State : Zustand, Tanstack Query
   - 🗄️ Database : PostgreSQL
-- 🔗 [코스밋 GitHub](https://github.com/hikers-dev)
+- 🔗 [코스밋 GitHub](https://github.com/hikers-dev/coursemeet-dev)
   
 </details>
 
@@ -119,7 +119,6 @@
 ## 📬 Contact
 - Email : hjong1010@naver.com  
 - GitHub : [HyunJong00](https://github.com/HyunJong00)  
-- Notion : [Notion](https://grizzly-scraper-fde.notion.site/HYUNJONG-LEE-10c9afa0ac8c80a899d6d896d9023336?pvs=74)
 <!--
 **HyunJong00/HyunJong00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
